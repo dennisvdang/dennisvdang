@@ -17,5 +17,3 @@ As someone who transitioned into data science from a non-traditional background 
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennisvdang&" alt="dennisvdang" /></p>
-
