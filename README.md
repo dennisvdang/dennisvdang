@@ -14,6 +14,3 @@ As someone who transitioned into data science from a non-traditional background 
 - Sharing projects on [![GitHub: dennisvdang](https://img.shields.io/badge/-dennisvdang-white?style=flat-square&logo=GitHub&logoColor=black)](https://github.com/dennisvdang)
 - Sharing mixes on [![SoundCloud: afterschoolmarineclub](https://img.shields.io/badge/-afterschoolmarineclub-orange?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/afterschoolmarineclub)
 - And more at [dennisvdang.com](https://dennisvdang.com)
-
----
-
