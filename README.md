@@ -10,22 +10,14 @@ As someone who transitioned into data science from a non-traditional background 
 
 ### Find me around the web 🌎: 
 
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/dennisvdang/) [![Linkedin: dennisvdang](https://img.shields.io/badge/-dennisvdang-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dennisvdang)
-- Sharing projects on [GitHub](https://github.com/dennisvdang) [![GitHub: dennisvdang](https://img.shields.io/badge/-dennisvdang-white?style=flat-square&logo=GitHub&logoColor=black)](https://github.com/dennisvdang)
-- Sharing mixes on [Soundcloud](https://soundcloud.com/afterschoolmarineclub) [![SoundCloud: afterschoolmarineclub](https://img.shields.io/badge/-afterschoolmarineclub-orange?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/afterschoolmarineclub)
+- Sharing updates on [![Linkedin: dennisvdang](https://img.shields.io/badge/-dennisvdang-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dennisvdang)
+- Sharing projects on [![GitHub: dennisvdang](https://img.shields.io/badge/-dennisvdang-white?style=flat-square&logo=GitHub&logoColor=black)](https://github.com/dennisvdang)
+- Sharing mixes on [![SoundCloud: afterschoolmarineclub](https://img.shields.io/badge/-afterschoolmarineclub-orange?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/afterschoolmarineclub)
 - And more at [dennisvdang.com](https://dennisvdang.com)
 
-<!--
-**dennisvdang/dennisvdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dennisvdang&show_icons=true&locale=en" alt="dennisvdang" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennisvdang&" alt="dennisvdang" /></p>
+
