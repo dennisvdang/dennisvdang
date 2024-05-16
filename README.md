@@ -11,6 +11,5 @@ If you find value in any of my projects or insights, feel free to star the relev
 ### Find me around the web 🌎: 
 
 - Sharing updates on [![Linkedin: dennisvdang](https://img.shields.io/badge/-dennisvdang-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dennisvdang)
-- Sharing projects on [![GitHub: dennisvdang](https://img.shields.io/badge/-dennisvdang-white?style=flat-square&logo=GitHub&logoColor=black)](https://github.com/dennisvdang)
 - Sharing mixes on [![SoundCloud: afterschoolmarineclub](https://img.shields.io/badge/-afterschoolmarineclub-orange?style=flat-square&logo=soundcloud&logoColor=white)](https://soundcloud.com/afterschoolmarineclub)
 - And more at [dennisvdang.com](https://dennisvdang.com)
