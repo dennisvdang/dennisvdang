@@ -4,7 +4,7 @@ I'm a data scientist who is passionate about learning and making data science mo
 
 In my latest project, I built a CRNN neural network to automatically detect choruses in songs from my favorite Spotify playlists. You can check out the code and detailed writeup in the [chorus-detection repository](https://github.com/dennisvdang/chorus-detection). Additionally, I maintain a [collection of case studies](https://github.com/dennisvdang/Springboard-Portfolio) where I apply various machine learning techniques, such as random forests and XGBoost for customer churn prediction or clustering algorithms for customer segmentation, to real-world problems across different industries.
 
-As someone who transitioned into data science from a non-traditional background (education research), I'm driven by curiosity and a strong desire to learn and create. If you find value in any of my projects or insights, feel free to star the relevant repositories or follow me on [GitHub](https://github.com/dennisvdang). I'm always excited to connect with fellow data enthusiasts and learn from each other!
+If you find value in any of my projects or insights, feel free to star the relevant repositories or follow me on [GitHub](https://github.com/dennisvdang). I'm always excited to connect with fellow data enthusiasts and learn from each other!
 
 ---
 
