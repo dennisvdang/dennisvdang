@@ -1,6 +1,6 @@
-# Hi, I'm Dennis! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnA1ajJrYWp1YzJqcG4xc3oyOHV5NTB1dzRsOHN0M25wdmtjd2lxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eGmgF0V90QIgpMv4WQ/giphy.gif" width="50">
+<img src="https://dennisvdang.com/fav.png" alt="Dennis Dang favicon" width="50" height="50"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGphMHVtMGI2M2FpeXpzbmlvczE2Z3VoajNsM3BrODc4YjIydDgwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gOQB9CYTK1HiDICeoh/giphy.webp" width="50" height="50">
 
-I'm a data scientist who is passionate about using machine learning to bring ideas to life and solve complex problems. Recently, I've been interested in ML/DL applications in music and generative language models. In my pinned repositories, you'll find a collection of passion projects that I maintain:
+Hi, I'm Dennis! I'm a data scientist who is passionate about using machine learning to bring ideas to life and solve complex problems. Recently, I've been interested in ML/DL applications in music and generative language models. In my pinned repositories, you'll find a collection of personal projects that I maintain:
 
 - [Automated Chorus Detection](https://github.com/dennisvdang/chorus-detection): A convolutional recurrent neural network model and audio signal processing pipeline that locates choruses in songs.
 - [Question-Answering Information Retrieval System](https://github.com/dennisvdang/QA-Retrieval-System): A fine-tuned DistilBERT model trained to answer customer queries about company products.
