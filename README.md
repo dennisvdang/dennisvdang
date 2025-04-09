@@ -3,6 +3,7 @@
 Hi, I'm Dennis! I'm a data scientist who is passionate about using machine learning to bring ideas to life and solve complex problems. Recently, I've been interested in ML/DL applications in music and generative language models. In my pinned repositories, you'll find a collection of personal projects that I maintain:
 
 - [Automated Chorus Detection](https://github.com/dennisvdang/chorus-detection): A convolutional recurrent neural network model and audio signal processing pipeline that locates choruses in songs.
+- [Indeed-Job-Scraper](https://github.com/dennisvdang/indeed-job-scraper): A Python CLI tool to scrape Indeed job listings (including full descriptions, salaries, dates, URLs), filter by remote and job type, and export neatly formatted CSV data for analysis.
 - [Question-Answering Information Retrieval System](https://github.com/dennisvdang/QA-Retrieval-System): A fine-tuned DistilBERT model trained to answer customer queries about company products.
 - [Collection of case studies](https://github.com/dennisvdang/Springboard-Portfolio): Case studies where I apply various machine learning techniques (e.g. random forests and XGBoost for customer churn prediction) to real-world problems across different industries.
 
