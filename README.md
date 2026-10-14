@@ -1,5 +1,3 @@
-<img src="https://dennisvdang.com/fav.png" alt="Dennis Dang favicon" width="50" height="50"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGphMHVtMGI2M2FpeXpzbmlvczE2Z3VoajNsM3BrODc4YjIydDgwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gOQB9CYTK1HiDICeoh/giphy.webp" width="50" height="50">
-
 Here are some personal projects that I've made public:
 
 - [Automated Chorus Detection](https://github.com/dennisvdang/chorus-detection): A convolutional recurrent neural network model and audio signal processing pipeline that locates choruses in songs.
